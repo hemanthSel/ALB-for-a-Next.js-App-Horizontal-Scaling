@@ -157,4 +157,4 @@ sudo grep -RniE 'ProxyPass|ProxyPassReverse|BalancerMember|127\.0\.0\.1|localhos
 
 ---
 
-*Screenshots from the original walkthrough have been omitted since they contained internal hostnames, IPs, and file paths — happy to help prep redacted versions if you want to include visuals in the repo.*
+
